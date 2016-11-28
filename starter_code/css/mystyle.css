@@ -1,0 +1,150 @@
+
+
+header{
+	background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+	background-size: cover;
+	height: 500px;
+	width: 980px;
+
+}
+
+
+#container{
+	width: 980px;
+	margin: auto;
+}
+
+.social{
+	display: inline;
+
+}
+
+#benefits{
+	background-color: #f0efef;
+	padding-top: 15px;
+	padding-left: 30px;
+	padding-bottom: 15px;
+	
+}
+
+#quote{
+	background-color: #033048;
+	height: 200px;
+	color: white;
+	margin: auto;
+	text-align: center;
+	display: block;
+	
+}
+
+#signup{
+	background-color: #f9e42e;
+	height: 100px;
+}
+
+blockquote{
+	font-style: italic;
+	padding-top: 20px;
+
+}
+
+footer{
+	background-color: #121212;
+	height: 250px;
+	color: white;
+	margin: auto;
+	text-align: center;
+	display: block;
+
+
+}
+
+header h1{
+	padding-top: 10px;
+	padding-left: 30px;
+	color: white;
+}
+
+header h2{
+	text-align: center;
+	font-size: 24px;
+	color: white;
+	margin-top: 150px;
+}
+
+header a{
+	margin: auto;
+	text-align: center;
+	display: block;
+	width: 100px;
+	background-color: #f9e42e;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 14px;
+	color: #033048;
+	text-decoration: none;
+}
+
+
+
+.signuplink{
+
+	margin: auto;
+	text-align: center;
+	display: block;
+	width: 150px;
+	background-color: #033048;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 14px;
+	text-decoration: none;
+	color: white;
+}
+
+h4{
+	margin: 0;
+	color: #f9e42e;
+	font-size: 24px;
+	font-style: extra bold;
+}
+
+ul{
+	list-style: disc;
+
+}
+
+
+
+/*!
+benefits background color: #f0efef
+yellow: #f9e42e
+dark blue: #033048
+light grey: #606161
+almost black: #121212
+
+Font: Open Sans (Google Font: https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans)
+Weight: Light, Light Italic, Semibold, Extrabold
+
+"Relaxr" - Extra bold, 24px
+"Get piece of mind with a single tap" - Semibold, 24px
+"Get it Now" - Extra bold, 14px. 5px border radius
+"Benefits" - Semibold, 20px
+"The perfect personal assistant. Relaxr does your job for you so you can enjoy life as it is meant to be." - Light, 13px
+• Schedule meetings for you
+• Excel automation to complete your work for you
+• Responds to emails on your behalf
+• Does all your work for you with our revolutionary AI technology" - Light, 13px
+
+"“Relaxr changed my life. I’ve been able to travel the world, spend limited time working and my boss keeps thanking me for crushing work.”" - Light Italic, 18px
+"- Amanda, Intuit " - semibold, 18px
+
+"Sign Up Now!" - extra bold, 12px, 5px border radius
+
+Relaxr - extra bold, 24px
+"Copyright 2015. Relaxr." - 9px, semibold
+
+Example: https://github.com/ga-students/fewd-denver-2/blob/master/Week_02_Styling/Assignment/starter_code/images/relaxr_landing.jpg;
+referencing fonts: font-family: 'Open Sans', sans-serif;;
+*/
