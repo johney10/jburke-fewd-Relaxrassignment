@@ -1,4 +1,6 @@
-
+h1{
+	margin: 0;
+}
 
 header{
 	background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
@@ -37,14 +39,10 @@ header{
 	
 }
 
-#signup{
-	background-color: #f9e42e;
-	height: 100px;
-}
-
 blockquote{
 	font-style: italic;
 	padding-top: 20px;
+	margin: 0;
 
 }
 
@@ -86,7 +84,11 @@ header a{
 	text-decoration: none;
 }
 
-
+#signup{
+	background-color: #f9e42e;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
 
 .signuplink{
 
